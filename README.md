@@ -1,4 +1,4 @@
-# Comppilador - Analisador Léxico usando FLEX
+# Compilador - Analisador Léxico usando FLEX
 
 Este projeto foi desenvolvido no contexto do Laboratório 04 da disciplina de Compiladores e implementa um analisador léxico usando FLEX, com base no código do Laboratório 14 de Compiladores fornecido pelo professor Judson Santos Santiago. [Código original disponível aqui](https://github.com/JudsonSS/Compiladores/tree/2e1b81ba859e18e938ea149d1cef2edea04dde36/Labs/Lab14/Sample).
 
